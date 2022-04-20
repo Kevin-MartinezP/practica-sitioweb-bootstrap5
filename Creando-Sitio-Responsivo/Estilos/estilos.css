@@ -1,0 +1,39 @@
+body{
+    background: #f2f2f2;
+}
+
+#encabezado{
+    background-color: #8BCE64;
+    height: 120px;
+}
+
+#main{
+    background: white;
+}
+
+#aside{
+    background: #e8e8e8;
+    margin-bottom: 10px;
+}
+
+.columnas-con-espacio{
+    background: #35A7FF;
+}
+
+#row-encabezado{
+    margin-top: 0;
+}
+
+.row{
+    margin: 20px 10px;
+}
+
+#footer{
+    background: black;
+    color: white;
+}
+
+#widgets{
+    color: #fff;
+    padding: 10px;
+}
